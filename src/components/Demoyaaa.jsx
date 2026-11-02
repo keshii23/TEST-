@@ -1,7 +1,7 @@
 const Demo = () => {
     return (
         <div>
-            Tambah kode!
+            Tambah kode UBAH KODEEE!!!!
         </div>
     )
 }
