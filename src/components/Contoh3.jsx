@@ -1,7 +1,7 @@
 const Contoh3 = () => {
     return (
         <div>
-            Contoh
+            Contoh / Contoh ada perubahan lagi.
         </div>
     )
 }
